@@ -1,0 +1,32 @@
+body {
+  background-color: #333
+  ;
+}
+h1 {
+  color: #fff;
+}
+legend {
+  padding: 5px 10px;
+  background-color: #fff;
+  border: 1px solid;
+  border-radius: 5px;
+}
+input {
+  height: 1.5em;
+}
+fieldset {
+  background-color: lightgreen;
+  width: 600px;
+  border: 3px double black;
+  border-radius: 5px;
+}
+textarea {
+  width: 550px;
+  height: 100px;
+}
+input, textarea {
+  outline: 0;
+  border: 0;
+  box-shadow: 2px 1.5px #777;
+  border-radius: 5px;
+}
